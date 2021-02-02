@@ -6,7 +6,7 @@
 #cell_width_scale = 1.0
 #clickable_url = true
 #dynamic_title = true
-font = Cascadia Code 12
+font = Hack 12
 #fullscreen = true
 #icon_name = terminal
 #mouse_autohide = false
@@ -20,7 +20,7 @@ scrollback_lines = 10000
 #hyperlinks = false
 
 # $BROWSER is used by default if set, with xdg-open as a fallback
-#browser = xdg-open
+#browser = xdg-open chromium
 
 # "system", "on" or "off"
 #cursor_blink = system

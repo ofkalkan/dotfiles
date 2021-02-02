@@ -45,7 +45,7 @@ super + ctrl + {m,x,y,z}
 # focus the node in the given direction
 #super + {h,j,k,l}
 super + {Left,Down,Up,Right}
-	bspc node any.local.!floating -{f} {west,south,north,east}
+	bspc node any.local -{f} {west,south,north,east}
 
 # focus the node for the given path jump
 super + {p,b,comma,period}

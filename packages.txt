@@ -14,3 +14,5 @@ spotify 1:1.1.10.546-4
 termite 15-1
 ttf-cascadia-code 1910.04-2
 ttf-font-awesome 5.13.1-2
+nerd-fonts-hack
+ttf-nerd-font-symbols
