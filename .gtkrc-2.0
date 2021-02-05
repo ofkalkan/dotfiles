@@ -1,0 +1,16 @@
+# -- THEME AUTO-WRITTEN DO NOT EDIT
+include "/usr/share/themes/Pop-dark/gtk-2.0/gtkrc"
+
+style "user-font" {
+	font_name = "SF Pro Rounded 11"
+}
+
+widget_class "*" style "user-font"
+
+gtk-font-name="SF Pro Rounded 11"
+gtk-icon-theme-name="Papirus-Dark"
+gtk-theme-name="Pop-dark"
+
+include "/home/omer/.gtkrc.mine"
+
+# -- THEME AUTO-WRITTEN DO NOT EDIT
