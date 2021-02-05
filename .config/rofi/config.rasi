@@ -2,7 +2,7 @@ configuration {
     display-drun:                   "Apps";
     display-window:                 "Window";
     show-icons:true;
-    modi: "window,run,ssh,drun";
+    modi: "combi,window,run,ssh,drun";
 }
  
 * {

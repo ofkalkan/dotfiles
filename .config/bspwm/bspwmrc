@@ -1,14 +1,15 @@
 #! /bin/sh
 
 pgrep -x sxhkd > /dev/null || sxhkd & # Keyboard shortcuts
-#rofi-bluetooth & # Enable rofi-bluetooth
 picom --experimental-backends & # Compositor
 ~/.config/polybar/launch.sh & # Status bar
 xsetroot -cursor_name left_ptr & # X cursor fix
 dunst & # Notifications
-feh --bg-fill ~/Pictures/wp4.jpg & #Set wallpaper
+feh --bg-fill ~/Pictures/download3.jpeg & #Set wallpaper
 setxkbmap tr & # Set Keyboard layout
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & #Set Polkit
+#gnome-keyring-daemon --start --components=pkcs11,secret,ssh & #Keyring
+#eval $(gnome-keyring-daemon -r -d -c=ssh) &
 
 bspc monitor -d 1 2 3 4 5 6 7 8 9 10        
  
@@ -16,7 +17,7 @@ bspc monitor -d 1 2 3 4 5 6 7 8 9 10
 bspc config border_radius        10.5
 bspc config border_width         2
 bspc config window_gap           8
-bspc config top_padding          34
+bspc config top_padding          30
 bspc config bottom_padding       2
 bspc config left_padding         2
 bspc config right_padding        2

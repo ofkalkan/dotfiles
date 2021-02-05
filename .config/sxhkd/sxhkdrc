@@ -144,4 +144,4 @@ XF86MonBrightnessDown
 
 # Take a screenshot
 Print
-	imgur-screenshot -o false
+	scrot -q 100 -e 'mv $f ~/Pictures/'
