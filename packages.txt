@@ -1,12 +1,12 @@
-antibody 6.0.1-1
-brightnessctl 0.5.1-2
-bspwm 0.9.9-1
-code 1.46.1-1
-dunst 1.4.1-1
-lightdm 1:1.30.0-3
+antibody
+brightnessctl
+bspwm
+code
+dunst
+lightdm
 nerd-fonts-complete 2.1.0-3
 otf-font-awesome
-picom-ibhagwan-git 1381_Next.100.g82ecc90_2020.06.20-1
+picom-ibhagwan-git
 playerctl
 polybar
 rofi-bluetooth-git
