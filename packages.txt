@@ -1,10 +1,8 @@
-antibody
+feh
 brightnessctl
 bspwm
 code
 dunst
-lightdm
-nerd-fonts-complete 2.1.0-3
 otf-font-awesome
 picom-ibhagwan-git
 playerctl
@@ -14,7 +12,17 @@ spotify
 termite
 ttf-font-awesome
 nerd-fonts-hack
-ttf-nerd-font-symbols
+ttf-nerd-fonts-symbols
 rxvt-unicode
 pop-gtk-theme-bin
 otf-san-francisco-pro
+sxhkd
+ttf-cascadia-code
+rofi
+vim-plug
+otf-cascadia-code
+ttf-meslo-nerd-font-powerlevel10k
+polkit-gnome
+gnome-keyring
+papirus-icon-theme
+seahorse
